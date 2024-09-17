@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Zer1t-1
 - 👀 I’m interested in code
-- 🌱 I’m currently learning piton
+- 🌱 I’m currently learning pyton and C++
 - 💞️ I’m looking to collaborate on me
 - 📫 How to reach me zgrekov@gmail.com
 - 😄 Pronouns: rus/en
